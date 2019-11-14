@@ -4,7 +4,6 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-flake8 = "*"
 
 [packages]
 flask = "*"
@@ -13,12 +12,11 @@ basilica = "*"
 tweepy = "*"
 redis = "*"
 psycopg2 = "*"
-flask-sqlalchemy = "*"
 gunicorn = "*"
 scikit-learn = "*"
 python-dotenv = "*"
 python-decouple = "*"
-picnic = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
