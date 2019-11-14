@@ -18,6 +18,7 @@ gunicorn = "*"
 scikit-learn = "*"
 python-dotenv = "*"
 python-decouple = "*"
+picnic = "*"
 
 [requires]
 python_version = "3.7"
